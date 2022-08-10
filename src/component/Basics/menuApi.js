@@ -50,7 +50,7 @@ const Menu = [
   },
   {
     // id: 7,
-    image: "images/React.png",
+    image: "images/react.png",
     name: "React.js",
     category: "5tm sem",
     description:
